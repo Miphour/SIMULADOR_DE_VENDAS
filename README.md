@@ -17,9 +17,9 @@ Fácil? Não. Desafiador. Particularmente, gosto de desafios.
 
 Numa simplificação, temos o primeiro movimento da seguinte forma:
 
-Jornada de compra
-
-ENTRA NO MERCADO > SELECIONA UM CARRINHO DE COMPRAS > REALIZA O PAGAMENTO > VAI EMBORA
+    Jornada de compra
+    
+    ENTRA NO MERCADO > SELECIONA UM CARRINHO DE COMPRAS > REALIZA O PAGAMENTO > VAI EMBORA
 
 Então para começar, vamos simular que um cliente entra numa loja e seleciona x dentro de n produtos disponíveis:
 
