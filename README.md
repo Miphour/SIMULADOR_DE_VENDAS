@@ -28,7 +28,17 @@ Então para começar, vamos simular que um cliente entra numa loja e seleciona x
     resultado: ['d', 'b', 'c']
 
 Ok, a função de seleção de produtos existe. 
-Mas um mercado, espera-se, possui mais produtos, recebe mais clientes e estes montam cestas com vários produtos, inclusive com repetições e etc; vamos providenciar:
-
-
+Mas um mercado (espera-se) possui mais produtos, recebe mais clientes que montam cestas com vários produtos, inclusive com repetições e etc; vamos providenciar:
+    
+    tab_produtos = '/content/LISTA DE PRODUTOS.csv'  
+    lista_produtos = pd.read_csv(tab_produtos)
+    produtos      = list(lista_produtos['ID'])
+    clientes      = 10
+    
+    for i in range(clientes):
+      tamanho_cesta = random.choice(range(len(produtos)))+1
+      print(random.choices(produtos,k=tamanho_cesta)) #-> alterei o parâmetro para "choices" para permitir a repetição
+        
+Isso resulta em 10 listas que são as cestas de compras dos clientes em questão, todas possuindo entre 1 e 500 itens (limitei a quantidade máxima à quantidade de produtos cadastrados por uma questão de legibilidade) e podendo ter itens repetidos. Isso será alterado no futuro para permitir mais itens.
+    
 
