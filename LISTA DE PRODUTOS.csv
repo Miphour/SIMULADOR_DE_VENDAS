@@ -1,48 +1,48 @@
-N∫;Nome do Produto;Setor;PreÁo (R$);Unidade
+N¬∫;Nome do Produto;Setor;Pre√ßo (R$);Unidade
 1;Arroz Branco;Mercearia;6.50;kg
-2;Feij„o Carioca;Mercearia;8.00;kg
-3;AÁ˙car Refinado;Mercearia;4.00;kg
+2;Feij√£o Carioca;Mercearia;8.00;kg
+3;A√ß√∫car Refinado;Mercearia;4.00;kg
 4;Sal Refinado;Mercearia;2.50;kg
-5;”leo de Soja;Mercearia;8.90;litro
-6;CafÈ Torrado e MoÌdo;Mercearia;15.00;500g
-7;Macarr„o Espaguete;Mercearia;4.00;500g
+5;√ìleo de Soja;Mercearia;8.90;litro
+6;Caf√© Torrado e Mo√≠do;Mercearia;15.00;500g
+7;Macarr√£o Espaguete;Mercearia;4.00;500g
 8;Molho de Tomate;Mercearia;3.50;unidade
 9;Farinha de Trigo;Mercearia;4.50;kg
-10;Leite Integral UHT;LaticÌnios;5.20;litro
-11;Queijo MuÁarela;LaticÌnios;45.00;kg
-12;Iogurte Natural;LaticÌnios;3.00;unidade
-13;Manteiga com Sal;LaticÌnios;18.00;200g
-14;Ovos Brancos Grandes;PerecÌveis;15.00;d˙zia
-15;Peito de Frango;AÁougue;22.00;kg
-16;Carne MoÌda (Patinho);AÁougue;35.00;kg
-17;LinguiÁa Calabresa;AÁougue;20.00;kg
-18;P„o FrancÍs;Padaria;18.00;kg
-19;Bolo de Fub·;Padaria;25.00;kg
+10;Leite Integral UHT;Latic√≠nios;5.20;litro
+11;Queijo Mu√ßarela;Latic√≠nios;45.00;kg
+12;Iogurte Natural;Latic√≠nios;3.00;unidade
+13;Manteiga com Sal;Latic√≠nios;18.00;200g
+14;Ovos Brancos Grandes;Perec√≠veis;15.00;d√∫zia
+15;Peito de Frango;A√ßougue;22.00;kg
+16;Carne Mo√≠da (Patinho);A√ßougue;35.00;kg
+17;Lingui√ßa Calabresa;A√ßougue;20.00;kg
+18;P√£o Franc√™s;Padaria;18.00;kg
+19;Bolo de Fub√°;Padaria;25.00;kg
 20;Biscoito Maisena;Biscoitos;4.00;pacote
 21;Chocolate em Barra;Doces;8.00;90g
 22;Refrigerante Cola;Bebidas;7.00;2L
-23;¡gua Mineral sem G·s;Bebidas;2.00;1.5L
+23;√Ågua Mineral sem G√°s;Bebidas;2.00;1.5L
 24;Cerveja Lager;Bebidas;5.00;lata
 25;Sabonete em Barra;Higiene Pessoal;3.00;unidade
 26;Shampoo;Higiene Pessoal;15.00;350ml
 27;Condicionador;Higiene Pessoal;16.00;350ml
 28;Creme Dental;Higiene Pessoal;6.00;unidade
-29;Papel HigiÍnico;Higiene Pessoal;18.00;12 rolos
-30;Detergente LÌquido;Limpeza;4.00;500ml
-31;¡gua Sanit·ria;Limpeza;6.00;litro
-32;Sab„o em PÛ;Limpeza;12.00;kg
+29;Papel Higi√™nico;Higiene Pessoal;18.00;12 rolos
+30;Detergente L√≠quido;Limpeza;4.00;500ml
+31;√Ågua Sanit√°ria;Limpeza;6.00;litro
+32;Sab√£o em P√≥;Limpeza;12.00;kg
 33;Desinfetante;Limpeza;8.00;litro
 34;Batata Inglesa;Hortifruti;5.00;kg
 35;Cebola;Hortifruti;4.00;kg
 36;Tomate;Hortifruti;7.00;kg
 37;Alface Crespa;Hortifruti;4.00;unidade
 38;Banana Nanica;Hortifruti;6.00;kg
-39;MaÁ„ Fuji;Hortifruti;9.00;kg
-40;Laranja PÍra;Hortifruti;4.00;kg
+39;Ma√ß√£ Fuji;Hortifruti;9.00;kg
+40;Laranja P√™ra;Hortifruti;4.00;kg
 41;Cenoura;Hortifruti;4.50;kg
 42;Abobrinha;Hortifruti;5.00;kg
-43;Piment„o Verde;Hortifruti;8.00;kg
-44;Lim„o Taiti;Hortifruti;3.00;kg
+43;Piment√£o Verde;Hortifruti;8.00;kg
+44;Lim√£o Taiti;Hortifruti;3.00;kg
 45;Leite Condensado;Mercearia;6.50;lata
 46;Creme de Leite;Mercearia;4.00;caixa
 47;Milho Verde em Lata;Mercearia;3.00;lata
@@ -54,9 +54,9 @@ N∫;Nome do Produto;Setor;PreÁo (R$);Unidade
 53;Geleia de Frutas;Mercearia;12.00;pote
 54;Mel;Mercearia;25.00;pote
 55;Azeite de Oliva Extra Virgem;Mercearia;30.00;500ml
-56;Vinagre de ¡lcool;Mercearia;3.00;750ml
-57;Fermento em PÛ;Mercearia;3.50;pote
-58;Gelatina em PÛ;Mercearia;2.00;caixa
+56;Vinagre de √Ålcool;Mercearia;3.00;750ml
+57;Fermento em P√≥;Mercearia;3.50;pote
+58;Gelatina em P√≥;Mercearia;2.00;caixa
 59;Maisena;Mercearia;4.00;500g
 60;Extrato de Tomate;Mercearia;5.00;pote
 61;Maionese;Mercearia;9.00;pote
@@ -68,34 +68,34 @@ N∫;Nome do Produto;Setor;PreÁo (R$);Unidade
 67;Cereal Matinal;Mercearia;18.00;caixa
 68;Barra de Cereal;Mercearia;3.00;unidade
 69;Suco Concentrado;Bebidas;10.00;500ml
-70;Ch· em SachÍ;Bebidas;8.00;caixa
+70;Ch√° em Sach√™;Bebidas;8.00;caixa
 71;Refrigerante Diet;Bebidas;7.00;2L
-72;¡gua TÙnica;Bebidas;4.00;lata
-73;EnergÈtico;Bebidas;10.00;lata
+72;√Ågua T√¥nica;Bebidas;4.00;lata
+73;Energ√©tico;Bebidas;10.00;lata
 74;Vinho Tinto Seco;Bebidas;40.00;garrafa
 75;Cerveja Artesanal;Bebidas;15.00;garrafa
-76;Sab„o em Barra;Limpeza;3.00;unidade
+76;Sab√£o em Barra;Limpeza;3.00;unidade
 77;Amaciante de Roupas;Limpeza;12.00;2L
 78;Limpador Multiuso;Limpeza;7.00;500ml
-79;Esponja de LouÁa;Limpeza;2.00;unidade
+79;Esponja de Lou√ßa;Limpeza;2.00;unidade
 80;Saco de Lixo;Limpeza;10.00;rolo
-81;Pano de Ch„o;Limpeza;5.00;unidade
+81;Pano de Ch√£o;Limpeza;5.00;unidade
 82;Luvas de Borracha;Limpeza;8.00;par
 83;Desodorante Aerossol;Higiene Pessoal;12.00;unidade
 84;Fio Dental;Higiene Pessoal;7.00;unidade
 85;Enxaguante Bucal;Higiene Pessoal;15.00;500ml
 86;Creme para Pentear;Higiene Pessoal;18.00;200ml
-87;LoÁ„o Hidratante;Higiene Pessoal;25.00;400ml
+87;Lo√ß√£o Hidratante;Higiene Pessoal;25.00;400ml
 88;Protetor Solar;Higiene Pessoal;35.00;120ml
-89;Absorvente HigiÍnico;Higiene Pessoal;10.00;pacote
-90;Fralda Descart·vel;BebÍ;60.00;pacote
-91;LenÁo Umedecido;BebÍ;15.00;pacote
-92;Shampoo para BebÍ;BebÍ;18.00;200ml
-93;Creme para Assaduras;BebÍ;20.00;pote
+89;Absorvente Higi√™nico;Higiene Pessoal;10.00;pacote
+90;Fralda Descart√°vel;Beb√™;60.00;pacote
+91;Len√ßo Umedecido;Beb√™;15.00;pacote
+92;Shampoo para Beb√™;Beb√™;18.00;200ml
+93;Creme para Assaduras;Beb√™;20.00;pote
 94;Batata Doce;Hortifruti;6.00;kg
 95;Mandioca;Hortifruti;5.00;kg
 96;Couve-Flor;Hortifruti;10.00;unidade
-97;BrÛcolis;Hortifruti;9.00;unidade
+97;Br√≥colis;Hortifruti;9.00;unidade
 98;Pepino;Hortifruti;4.00;kg
 99;Beringela;Hortifruti;6.00;kg
 100;Vagem;Hortifruti;8.00;kg
@@ -103,97 +103,97 @@ N∫;Nome do Produto;Setor;PreÁo (R$);Unidade
 102;Abacate;Hortifruti;10.00;kg
 103;Manga Palmer;Hortifruti;8.00;kg
 104;Uva Thompson;Hortifruti;15.00;kg
-105;PÍra Portuguesa;Hortifruti;12.00;kg
+105;P√™ra Portuguesa;Hortifruti;12.00;kg
 106;Morango;Hortifruti;10.00;bandeja
 107;Kiwi;Hortifruti;25.00;kg
 108;Abacaxi;Hortifruti;8.00;unidade
 109;Melancia;Hortifruti;4.00;kg
 110;Coco Seco;Hortifruti;6.00;unidade
-111;P„o de Forma;Padaria;7.00;pacote
+111;P√£o de Forma;Padaria;7.00;pacote
 112;Torradas;Padaria;6.00;pacote
 113;Rosca Doce;Padaria;20.00;kg
-114;P„o de Queijo Congelado;Congelados;15.00;kg
+114;P√£o de Queijo Congelado;Congelados;15.00;kg
 115;Pizza Congelada;Congelados;25.00;unidade
 116;Lasanha Congelada;Congelados;20.00;unidade
-117;Hamb˙rguer Congelado;Congelados;18.00;pacote
+117;Hamb√∫rguer Congelado;Congelados;18.00;pacote
 118;Batata Frita Congelada;Congelados;10.00;kg
 119;Sorvete;Congelados;25.00;pote
 120;Polpa de Fruta Congelada;Congelados;5.00;unidade
-121;Salsicha;AÁougue;15.00;kg
+121;Salsicha;A√ßougue;15.00;kg
 122;Presunto Cozido;Frios;30.00;kg
 123;Mortadela;Frios;18.00;kg
 124;Queijo Prato;Frios;40.00;kg
-125;Requeij„o Cremoso;LaticÌnios;10.00;pote
-126;Leite Fermentado;LaticÌnios;8.00;pacote
-127;Coalhada;LaticÌnios;7.00;pote
-128;Margarina;LaticÌnios;8.00;500g
-129;NÈctar de Frutas;Bebidas;4.00;litro
+125;Requeij√£o Cremoso;Latic√≠nios;10.00;pote
+126;Leite Fermentado;Latic√≠nios;8.00;pacote
+127;Coalhada;Latic√≠nios;7.00;pote
+128;Margarina;Latic√≠nios;8.00;500g
+129;N√©ctar de Frutas;Bebidas;4.00;litro
 130;Leite Vegetal (Soja/Aveia);Bebidas;12.00;litro
-131;¡gua de Coco;Bebidas;6.00;litro
+131;√Ågua de Coco;Bebidas;6.00;litro
 132;Vinho Branco Suave;Bebidas;35.00;garrafa
 133;Espumante;Bebidas;50.00;garrafa
 134;Vodka;Bebidas;70.00;garrafa
 135;Whisky;Bebidas;100.00;garrafa
-136;CachaÁa;Bebidas;25.00;garrafa
+136;Cacha√ßa;Bebidas;25.00;garrafa
 137;Limpa Vidros;Limpeza;8.00;500ml
-138;Lustra MÛveis;Limpeza;10.00;200ml
-139;¡lcool LÌquido;Limpeza;7.00;litro
+138;Lustra M√≥veis;Limpeza;10.00;200ml
+139;√Ålcool L√≠quido;Limpeza;7.00;litro
 140;Pano Multiuso;Limpeza;3.00;unidade
 141;Vassoura;Limpeza;25.00;unidade
 142;Rodo;Limpeza;15.00;unidade
 143;Balde;Limpeza;20.00;unidade
-144;Palha de AÁo;Limpeza;2.00;pacote
-145;Luva de Pl·stico;Limpeza;5.00;caixa
+144;Palha de A√ßo;Limpeza;2.00;pacote
+145;Luva de Pl√°stico;Limpeza;5.00;caixa
 146;Cotonetes;Higiene Pessoal;5.00;pacote
-147;Algod„o;Higiene Pessoal;4.00;pacote
+147;Algod√£o;Higiene Pessoal;4.00;pacote
 148;Esmalte;Higiene Pessoal;6.00;unidade
 149;Removedor de Esmalte;Higiene Pessoal;5.00;frasco
-150;L‚mina de Barbear;Higiene Pessoal;10.00;pacote
+150;L√¢mina de Barbear;Higiene Pessoal;10.00;pacote
 151;Creme de Barbear;Higiene Pessoal;8.00;tubo
-152;PÛs-Barba;Higiene Pessoal;20.00;frasco
+152;P√≥s-Barba;Higiene Pessoal;20.00;frasco
 153;Perfume;Higiene Pessoal;80.00;frasco
 154;Escova de Cabelo;Higiene Pessoal;15.00;unidade
 155;Pente;Higiene Pessoal;8.00;unidade
-156;Sabonete LÌquido;Higiene Pessoal;10.00;250ml
-157;¡lcool em Gel;Higiene Pessoal;12.00;500ml
-158;M·scara Facial;Higiene Pessoal;5.00;unidade
-159;LenÁo de Papel;Higiene Pessoal;4.00;caixa
-160;Cotonete para BebÍ;BebÍ;6.00;pacote
-161;Talco para BebÍ;BebÍ;10.00;pote
-162;Sabonete LÌquido para BebÍ;BebÍ;12.00;200ml
-163;Mamadeira;BebÍ;30.00;unidade
-164;Chupeta;BebÍ;15.00;unidade
-165;Papinha Salgada;BebÍ;7.00;pote
-166;Papinha Doce;BebÍ;6.00;pote
+156;Sabonete L√≠quido;Higiene Pessoal;10.00;250ml
+157;√Ålcool em Gel;Higiene Pessoal;12.00;500ml
+158;M√°scara Facial;Higiene Pessoal;5.00;unidade
+159;Len√ßo de Papel;Higiene Pessoal;4.00;caixa
+160;Cotonete para Beb√™;Beb√™;6.00;pacote
+161;Talco para Beb√™;Beb√™;10.00;pote
+162;Sabonete L√≠quido para Beb√™;Beb√™;12.00;200ml
+163;Mamadeira;Beb√™;30.00;unidade
+164;Chupeta;Beb√™;15.00;unidade
+165;Papinha Salgada;Beb√™;7.00;pote
+166;Papinha Doce;Beb√™;6.00;pote
 167;Gel de carboidrato;Mercearia;2.50;unidade
-168;Aveia em Flocos Finos;BebÍ;9.00;200g
+168;Aveia em Flocos Finos;Beb√™;9.00;200g
 169;Arroz para Risoto;Mercearia;10.00;kg
 170;Lentilha;Mercearia;9.00;kg
-171;Gr„o de Bico;Mercearia;12.00;kg
+171;Gr√£o de Bico;Mercearia;12.00;kg
 172;Quinoa;Mercearia;30.00;500g
 173;Chia;Mercearia;20.00;200g
-174;LinhaÁa;Mercearia;15.00;200g
-175;Castanha-do-Par·;Mercearia;80.00;kg
+174;Linha√ßa;Mercearia;15.00;200g
+175;Castanha-do-Par√°;Mercearia;80.00;kg
 176;Castanha de Caju;Mercearia;70.00;kg
-177;AmÍndoa;Mercearia;60.00;kg
+177;Am√™ndoa;Mercearia;60.00;kg
 178;Nozes;Mercearia;55.00;kg
 179;Uva Passa;Mercearia;20.00;kg
 180;Damasco Seco;Mercearia;30.00;kg
 181;Figo Seco;Mercearia;25.00;kg
-182;T‚mara;Mercearia;40.00;kg
-183;Leite em PÛ;Mercearia;25.00;400g
-184;Achocolatado em PÛ;Mercearia;10.00;400g
-185;CafÈ Sol˙vel;Mercearia;18.00;100g
-186;Ch· Mate;Bebidas;7.00;pacote
-187;Suco em PÛ;Bebidas;2.00;envelope
+182;T√¢mara;Mercearia;40.00;kg
+183;Leite em P√≥;Mercearia;25.00;400g
+184;Achocolatado em P√≥;Mercearia;10.00;400g
+185;Caf√© Sol√∫vel;Mercearia;18.00;100g
+186;Ch√° Mate;Bebidas;7.00;pacote
+187;Suco em P√≥;Bebidas;2.00;envelope
 188;Biscoito de Arroz;Mercearia;7.00;pacote
 189;Barrinha de Goiabada;Doces;3.00;unidade
 190;Doce de Leite;Doces;15.00;pote
 191;Goiabada;Doces;10.00;barra
 192;Cocada;Doces;5.00;unidade
-193;Pudim em PÛ;Mercearia;3.00;caixa
-194;Fermento BiolÛgico Fresco;Padaria;2.00;unidade
-195;Fermento BiolÛgico Seco;Mercearia;5.00;pacote
+193;Pudim em P√≥;Mercearia;3.00;caixa
+194;Fermento Biol√≥gico Fresco;Padaria;2.00;unidade
+195;Fermento Biol√≥gico Seco;Mercearia;5.00;pacote
 196;Massa de Pastel;Padaria;8.00;pacote
 197;Massa para Lasanha;Mercearia;9.00;pacote
 198;Massa para Pizza;Padaria;10.00;unidade
@@ -201,54 +201,54 @@ N∫;Nome do Produto;Setor;PreÁo (R$);Unidade
 200;Caldo de Galinha/Carne;Mercearia;5.00;caixa
 201;Amido de Milho;Mercearia;4.00;200g
 202;Coco Ralado;Mercearia;5.00;100g
-203;Chocolate em PÛ;Mercearia;12.00;200g
+203;Chocolate em P√≥;Mercearia;12.00;200g
 204;Mistura para Bolo;Mercearia;6.00;caixa
 205;Leite de Coco;Mercearia;7.00;200ml
-206;Pimenta do Reino MoÌda;Mercearia;8.00;pote
-207;OrÈgano;Mercearia;4.00;pote
+206;Pimenta do Reino Mo√≠da;Mercearia;8.00;pote
+207;Or√©gano;Mercearia;4.00;pote
 208;Louro em Folhas;Mercearia;3.00;pacote
 209;Colorau;Mercearia;3.50;pote
 210;Cominho;Mercearia;4.00;pote
-211;Canela em PÛ;Mercearia;6.00;pote
-212;Cravo da Õndia;Mercearia;7.00;pacote
+211;Canela em P√≥;Mercearia;6.00;pote
+212;Cravo da √çndia;Mercearia;7.00;pacote
 213;Noz-Moscada;Mercearia;9.00;unidade
-214;AÁ˙car Mascavo;Mercearia;6.00;kg
-215;AÁ˙car Demerara;Mercearia;7.00;kg
+214;A√ß√∫car Mascavo;Mercearia;6.00;kg
+215;A√ß√∫car Demerara;Mercearia;7.00;kg
 216;Sal Grosso;Mercearia;3.00;kg
 217;Farinha de Rosca;Mercearia;4.00;500g
 218;Farinha de Milho;Mercearia;3.50;kg
-219;Fub·;Mercearia;3.00;kg
+219;Fub√°;Mercearia;3.00;kg
 220;Polvilho Doce;Mercearia;6.00;kg
 221;Polvilho Azedo;Mercearia;6.00;kg
 222;Gelatina sem Sabor;Mercearia;3.00;caixa
-223;Fermento para P„o;Mercearia;2.50;pacote
-224;Fermento QuÌmico;Mercearia;3.50;pote
-225;EssÍncia de Baunilha;Mercearia;5.00;frasco
-226;Corante AlimentÌcio;Mercearia;4.00;frasco
+223;Fermento para P√£o;Mercearia;2.50;pacote
+224;Fermento Qu√≠mico;Mercearia;3.50;pote
+225;Ess√™ncia de Baunilha;Mercearia;5.00;frasco
+226;Corante Aliment√≠cio;Mercearia;4.00;frasco
 227;Coco Fresco;Hortifruti;7.00;unidade
 228;Gengibre;Hortifruti;15.00;kg
-229;Alho PorÛ;Hortifruti;6.00;unidade
-230;Rabanete;Hortifruti;5.00;maÁo
+229;Alho Por√≥;Hortifruti;6.00;unidade
+230;Rabanete;Hortifruti;5.00;ma√ßo
 231;Beterraba;Hortifruti;5.00;kg
 232;Inhame;Hortifruti;7.00;kg
-233;Car·;Hortifruti;7.00;kg
-234;JilÛ;Hortifruti;8.00;kg
+233;Car√°;Hortifruti;7.00;kg
+234;Jil√≥;Hortifruti;8.00;kg
 235;Maxixe;Hortifruti;10.00;kg
 236;Quiabo Verde;Hortifruti;12.00;kg
 237;Cogumelo Paris;Hortifruti;30.00;200g
 238;Cogumelo Shiitake;Hortifruti;40.00;200g
-239;Aspargos;Hortifruti;25.00;maÁo
+239;Aspargos;Hortifruti;25.00;ma√ßo
 240;Alcachofra;Hortifruti;15.00;unidade
-241;Rom„;Hortifruti;8.00;unidade
+241;Rom√£;Hortifruti;8.00;unidade
 242;Caqui;Hortifruti;9.00;kg
 243;Ameixa;Hortifruti;12.00;kg
-244;PÍssego;Hortifruti;15.00;kg
+244;P√™ssego;Hortifruti;15.00;kg
 245;Nectarina;Hortifruti;16.00;kg
 246;Cereja;Hortifruti;50.00;200g
 247;Figo Fresco;Hortifruti;20.00;kg
 248;Caju;Hortifruti;10.00;kg
 249;Goiaba;Hortifruti;7.00;kg
-250;Maracuj·;Hortifruti;9.00;kg
+250;Maracuj√°;Hortifruti;9.00;kg
 251;Physalis;Hortifruti;35.00;100g
 252;Amora;Hortifruti;20.00;bandeja
 253;Framboesa;Hortifruti;25.00;bandeja
@@ -260,9 +260,9 @@ N∫;Nome do Produto;Setor;PreÁo (R$);Unidade
 259;Tamarindo;Hortifruti;18.00;kg
 260;Graviola;Hortifruti;15.00;kg
 261;Cabelo de Anjo;Padaria;22.00;kg
-262;P„o Integral;Padaria;8.00;pacote
-263;P„o de Centeio;Padaria;9.00;pacote
-264;Biscoito ¡gua e Sal;Biscoitos;3.50;pacote
+262;P√£o Integral;Padaria;8.00;pacote
+263;P√£o de Centeio;Padaria;9.00;pacote
+264;Biscoito √Ågua e Sal;Biscoitos;3.50;pacote
 265;Biscoito Cream Cracker;Biscoitos;3.50;pacote
 266;Biscoito de Polvilho;Biscoitos;6.00;pacote
 267;Salgadinho de Milho;Biscoitos;5.00;pacote
@@ -274,48 +274,48 @@ N∫;Nome do Produto;Setor;PreÁo (R$);Unidade
 273;Pirulito;Doces;1.50;unidade
 274;Marshmallow;Doces;8.00;pacote
 275;Suspiro;Doces;7.00;pacote
-276;PaÁoca;Doces;0.80;unidade
-277;PÈ de Moleque;Doces;2.50;unidade
+276;Pa√ßoca;Doces;0.80;unidade
+277;P√© de Moleque;Doces;2.50;unidade
 278;Rapadura;Doces;6.00;unidade
-279;Doce de AbÛbora;Doces;12.00;pote
+279;Doce de Ab√≥bora;Doces;12.00;pote
 280;Compota de Frutas;Doces;15.00;pote
-281;Goiabada Casc„o;Doces;12.00;kg
+281;Goiabada Casc√£o;Doces;12.00;kg
 282;Marmelada;Doces;10.00;kg
-283;Refrigerante Guaran·;Bebidas;7.00;2L
+283;Refrigerante Guaran√°;Bebidas;7.00;2L
 284;Refrigerante Laranja;Bebidas;7.00;2L
 285;Suco de Laranja Natural;Bebidas;10.00;litro
 286;Suco de Uva Integral;Bebidas;12.00;litro
-287;¡gua com G·s;Bebidas;2.50;1.5L
-288;Ch· Gelado Pronto;Bebidas;5.00;litro
+287;√Ågua com G√°s;Bebidas;2.50;1.5L
+288;Ch√° Gelado Pronto;Bebidas;5.00;litro
 289;Leite de Arroz;Bebidas;13.00;litro
-290;Leite de AmÍndoas;Bebidas;15.00;litro
+290;Leite de Am√™ndoas;Bebidas;15.00;litro
 291;Cerveja Pilsen;Bebidas;4.50;lata
 292;Cerveja Escura;Bebidas;6.00;lata
 293;Gin;Bebidas;80.00;garrafa
 294;Rum;Bebidas;60.00;garrafa
 295;Tequila;Bebidas;90.00;garrafa
 296;Licor;Bebidas;50.00;garrafa
-297;Vinagre Bals‚mico;Mercearia;15.00;250ml
-298;Molho InglÍs;Mercearia;6.00;frasco
+297;Vinagre Bals√¢mico;Mercearia;15.00;250ml
+298;Molho Ingl√™s;Mercearia;6.00;frasco
 299;Molho Shoyu;Mercearia;8.00;frasco
 300;Azeite Composto;Mercearia;12.00;litro
-301;”leo de Girassol;Mercearia;10.00;litro
-302;”leo de Milho;Mercearia;9.50;litro
-303;”leo de Coco;Mercearia;25.00;200ml
+301;√ìleo de Girassol;Mercearia;10.00;litro
+302;√ìleo de Milho;Mercearia;9.50;litro
+303;√ìleo de Coco;Mercearia;25.00;200ml
 304;Sal Rosa do Himalaia;Mercearia;15.00;500g
 305;Sal Marinho;Mercearia;5.00;kg
 306;Pimenta Calabresa;Mercearia;5.00;pote
 307;Pimenta Caiena;Mercearia;6.00;pote
-308;P·prica Doce;Mercearia;7.00;pote
-309;P·prica Picante;Mercearia;7.00;pote
-310;Curry em PÛ;Mercearia;8.00;pote
-311;AÁafr„o em PÛ;Mercearia;10.00;pote
+308;P√°prica Doce;Mercearia;7.00;pote
+309;P√°prica Picante;Mercearia;7.00;pote
+310;Curry em P√≥;Mercearia;8.00;pote
+311;A√ßafr√£o em P√≥;Mercearia;10.00;pote
 312;Gergelim;Mercearia;12.00;200g
 313;Semente de Girassol;Mercearia;10.00;200g
-314;Semente de AbÛbora;Mercearia;15.00;200g
+314;Semente de Ab√≥bora;Mercearia;15.00;200g
 315;Aveia em Flocos Grossos;Mercearia;8.50;500g
 316;Farelo de Aveia;Mercearia;9.00;500g
-317;GÈrmen de Trigo;Mercearia;10.00;250g
+317;G√©rmen de Trigo;Mercearia;10.00;250g
 318;Fibra de Trigo;Mercearia;7.00;250g
 319;Cuscuz Marroquino;Mercearia;18.00;500g
 320;Trigo para Kibe;Mercearia;6.00;500g
@@ -323,114 +323,114 @@ N∫;Nome do Produto;Setor;PreÁo (R$);Unidade
 322;Goma de Tapioca;Mercearia;8.00;kg
 323;Farinha de Arroz;Mercearia;9.00;kg
 324;Farinha de Coco;Mercearia;20.00;200g
-325;Farinha de AmÍndoa;Mercearia;30.00;200g
-326;Xarope de Guaran·;Mercearia;15.00;500ml
+325;Farinha de Am√™ndoa;Mercearia;30.00;200g
+326;Xarope de Guaran√°;Mercearia;15.00;500ml
 327;Melado de Cana;Mercearia;10.00;500g
-328;AÁ˙car de Coco;Mercearia;25.00;250g
-329;AdoÁante LÌquido;Mercearia;10.00;frasco
-330;AdoÁante em PÛ;Mercearia;12.00;caixa
-331;CafÈ Descafeinado;Mercearia;20.00;250g
-332;C·psulas de CafÈ;Mercearia;25.00;caixa
-333;Ch· Verde;Bebidas;10.00;caixa
-334;Ch· Preto;Bebidas;9.00;caixa
-335;Ch· de Camomila;Bebidas;8.00;caixa
-336;Ch· de Hortel„;Bebidas;8.00;caixa
-337;Ch· de Erva-Doce;Bebidas;8.00;caixa
-338;¡gua Aromatizada;Bebidas;4.00;500ml
-339;Bebida IsotÙnica;Bebidas;6.00;500ml
+328;A√ß√∫car de Coco;Mercearia;25.00;250g
+329;Ado√ßante L√≠quido;Mercearia;10.00;frasco
+330;Ado√ßante em P√≥;Mercearia;12.00;caixa
+331;Caf√© Descafeinado;Mercearia;20.00;250g
+332;C√°psulas de Caf√©;Mercearia;25.00;caixa
+333;Ch√° Verde;Bebidas;10.00;caixa
+334;Ch√° Preto;Bebidas;9.00;caixa
+335;Ch√° de Camomila;Bebidas;8.00;caixa
+336;Ch√° de Hortel√£;Bebidas;8.00;caixa
+337;Ch√° de Erva-Doce;Bebidas;8.00;caixa
+338;√Ågua Aromatizada;Bebidas;4.00;500ml
+339;Bebida Isot√¥nica;Bebidas;6.00;500ml
 340;Refrigerante Zero;Bebidas;7.00;2L
-341;Leite Semidesnatado UHT;LaticÌnios;5.00;litro
-342;Leite Desnatado UHT;LaticÌnios;5.00;litro
-343;Leite Zero Lactose;LaticÌnios;6.00;litro
-344;Creme de Ricota;LaticÌnios;12.00;pote
-345;Queijo Minas Frescal;LaticÌnios;35.00;kg
-346;Queijo Coalho;LaticÌnios;38.00;kg
-347;Queijo Parmes„o Ralado;LaticÌnios;15.00;100g
-348;Requeij„o Light;LaticÌnios;10.00;pote
-349;Iogurte Grego;LaticÌnios;4.00;unidade
-350;Iogurte Zero Lactose;LaticÌnios;3.50;unidade
-351;Leite Fermentado Zero;LaticÌnios;8.00;pacote
-352;Manteiga sem Sal;LaticÌnios;18.00;200g
-353;Ovos Caipiras;PerecÌveis;18.00;d˙zia
-354;Ovos de Codorna;PerecÌveis;8.00;bandeja
-355;FilÈ de Salm„o;Peixaria;80.00;kg
-356;FilÈ de Til·pia;Peixaria;35.00;kg
-357;Camar„o Congelado;Peixaria;60.00;kg
+341;Leite Semidesnatado UHT;Latic√≠nios;5.00;litro
+342;Leite Desnatado UHT;Latic√≠nios;5.00;litro
+343;Leite Zero Lactose;Latic√≠nios;6.00;litro
+344;Creme de Ricota;Latic√≠nios;12.00;pote
+345;Queijo Minas Frescal;Latic√≠nios;35.00;kg
+346;Queijo Coalho;Latic√≠nios;38.00;kg
+347;Queijo Parmes√£o Ralado;Latic√≠nios;15.00;100g
+348;Requeij√£o Light;Latic√≠nios;10.00;pote
+349;Iogurte Grego;Latic√≠nios;4.00;unidade
+350;Iogurte Zero Lactose;Latic√≠nios;3.50;unidade
+351;Leite Fermentado Zero;Latic√≠nios;8.00;pacote
+352;Manteiga sem Sal;Latic√≠nios;18.00;200g
+353;Ovos Caipiras;Perec√≠veis;18.00;d√∫zia
+354;Ovos de Codorna;Perec√≠veis;8.00;bandeja
+355;Fil√© de Salm√£o;Peixaria;80.00;kg
+356;Fil√© de Til√°pia;Peixaria;35.00;kg
+357;Camar√£o Congelado;Peixaria;60.00;kg
 358;Bacalhau Desfiado;Peixaria;70.00;kg
-359;Costela SuÌna;AÁougue;25.00;kg
-360;Picanha Bovina;AÁougue;70.00;kg
-361;Alcatra Bovina;AÁougue;45.00;kg
-362;Salsich„o;AÁougue;18.00;kg
-363;Bacon em Cubos;AÁougue;30.00;kg
-364;Carne Seca;AÁougue;40.00;kg
-365;Frango Inteiro;AÁougue;15.00;kg
-366;Coxa e Sobrecoxa de Frango;AÁougue;18.00;kg
-367;Asa de Frango;AÁougue;16.00;kg
-368;CoraÁ„o de Frango;AÁougue;20.00;kg
-369;LinguiÁa de Frango;AÁougue;18.00;kg
-370;LinguiÁa Toscana;AÁougue;22.00;kg
+359;Costela Su√≠na;A√ßougue;25.00;kg
+360;Picanha Bovina;A√ßougue;70.00;kg
+361;Alcatra Bovina;A√ßougue;45.00;kg
+362;Salsich√£o;A√ßougue;18.00;kg
+363;Bacon em Cubos;A√ßougue;30.00;kg
+364;Carne Seca;A√ßougue;40.00;kg
+365;Frango Inteiro;A√ßougue;15.00;kg
+366;Coxa e Sobrecoxa de Frango;A√ßougue;18.00;kg
+367;Asa de Frango;A√ßougue;16.00;kg
+368;Cora√ß√£o de Frango;A√ßougue;20.00;kg
+369;Lingui√ßa de Frango;A√ßougue;18.00;kg
+370;Lingui√ßa Toscana;A√ßougue;22.00;kg
 371;Mortadela Defumada;Frios;20.00;kg
 372;Peito de Peru;Frios;45.00;kg
 373;Salame;Frios;50.00;kg
 374;Queijo Provolone;Frios;55.00;kg
 375;Queijo Gouda;Frios;60.00;kg
-376;Queijo Minas Padr„o;Frios;40.00;kg
-377;PatÍ de Atum;Frios;10.00;pote
-378;PatÍ de Frango;Frios;10.00;pote
+376;Queijo Minas Padr√£o;Frios;40.00;kg
+377;Pat√™ de Atum;Frios;10.00;pote
+378;Pat√™ de Frango;Frios;10.00;pote
 379;Croissant;Padaria;8.00;unidade
 380;Sonho;Padaria;6.00;unidade
-381;P„o de Batata;Padaria;5.00;unidade
-382;Mini P„o de Queijo;Padaria;25.00;kg
+381;P√£o de Batata;Padaria;5.00;unidade
+382;Mini P√£o de Queijo;Padaria;25.00;kg
 383;Bolo de Chocolate;Padaria;30.00;kg
-384;Torta de Lim„o;Padaria;40.00;kg
+384;Torta de Lim√£o;Padaria;40.00;kg
 385;Pudim de Leite;Padaria;35.00;kg
 386;Rocambole;Padaria;28.00;kg
-387;P„o SÌrio;Padaria;6.00;pacote
+387;P√£o S√≠rio;Padaria;6.00;pacote
 388;Rap 10;Padaria;8.00;pacote
 389;Massa Fresca para Pastel;Padaria;7.00;pacote
 390;Massa Fresca para Lasanha;Padaria;8.00;pacote
-391;P„o Congelado;Congelados;12.00;pacote
-392;P„o de Alho Congelado;Congelados;10.00;pacote
+391;P√£o Congelado;Congelados;12.00;pacote
+392;P√£o de Alho Congelado;Congelados;10.00;pacote
 393;Nuggets de Frango;Congelados;15.00;pacote
-394;Hamb˙rguer de Frango;Congelados;16.00;pacote
-395;AlmÙndegas Congeladas;Congelados;18.00;pacote
+394;Hamb√∫rguer de Frango;Congelados;16.00;pacote
+395;Alm√¥ndegas Congeladas;Congelados;18.00;pacote
 396;Escondidinho Congelado;Congelados;22.00;unidade
 397;Yakisoba Congelado;Congelados;28.00;unidade
-398;AÁaÌ Congelado;Congelados;20.00;pote
-399;PicolÈ;Congelados;3.00;unidade
+398;A√ßa√≠ Congelado;Congelados;20.00;pote
+399;Picol√©;Congelados;3.00;unidade
 400;Gelo em Cubos;Congelados;5.00;pacote
-401;Sabonete LÌquido Õntimo;Higiene Pessoal;18.00;200ml
+401;Sabonete L√≠quido √çntimo;Higiene Pessoal;18.00;200ml
 402;Gel de Barbear;Higiene Pessoal;15.00;tubo
 403;Espuma de Barbear;Higiene Pessoal;14.00;lata
-404;PÛs-Barba em Gel;Higiene Pessoal;22.00;frasco
+404;P√≥s-Barba em Gel;Higiene Pessoal;22.00;frasco
 405;Desodorante Roll-on;Higiene Pessoal;10.00;unidade
 406;Desodorante Creme;Higiene Pessoal;9.00;pote
-407;Talco para PÈs;Higiene Pessoal;8.00;pote
-408;Cotonetes EcolÛgicos;Higiene Pessoal;7.00;pacote
-409;Escova de Dentes ElÈtrica;Higiene Pessoal;80.00;unidade
-410;Refil para Escova ElÈtrica;Higiene Pessoal;25.00;pacote
+407;Talco para P√©s;Higiene Pessoal;8.00;pote
+408;Cotonetes Ecol√≥gicos;Higiene Pessoal;7.00;pacote
+409;Escova de Dentes El√©trica;Higiene Pessoal;80.00;unidade
+410;Refil para Escova El√©trica;Higiene Pessoal;25.00;pacote
 411;Pasta de Dente Clareadora;Higiene Pessoal;10.00;unidade
-412;Fio Dental com Fl˙or;Higiene Pessoal;8.00;unidade
+412;Fio Dental com Fl√∫or;Higiene Pessoal;8.00;unidade
 413;Protetor Labial;Higiene Pessoal;12.00;unidade
-414;Creme para M„os;Higiene Pessoal;15.00;80g
-415;Creme para PÈs;Higiene Pessoal;18.00;80g
-416;”leo Corporal;Higiene Pessoal;20.00;200ml
+414;Creme para M√£os;Higiene Pessoal;15.00;80g
+415;Creme para P√©s;Higiene Pessoal;18.00;80g
+416;√ìleo Corporal;Higiene Pessoal;20.00;200ml
 417;Esfoliante Corporal;Higiene Pessoal;25.00;200g
-418;M·scara Capilar;Higiene Pessoal;20.00;250g
+418;M√°scara Capilar;Higiene Pessoal;20.00;250g
 419;Reparador de Pontas;Higiene Pessoal;15.00;30ml
 420;Gel para Cabelo;Higiene Pessoal;10.00;pote
 421;Spray Fixador de Cabelo;Higiene Pessoal;18.00;lata
 422;Tintura de Cabelo;Higiene Pessoal;25.00;caixa
-423;¡gua Oxigenada;Higiene Pessoal;5.00;frasco
+423;√Ågua Oxigenada;Higiene Pessoal;5.00;frasco
 424;Removedor de Maquiagem;Higiene Pessoal;15.00;150ml
-425;Algod„o em Discos;Higiene Pessoal;6.00;pacote
-426;LenÁos de Papel Umedecidos;Higiene Pessoal;8.00;pacote
-427;Sabonete AntissÈptico;Higiene Pessoal;7.00;unidade
-428;¡lcool 70%;Limpeza;8.00;litro
+425;Algod√£o em Discos;Higiene Pessoal;6.00;pacote
+426;Len√ßos de Papel Umedecidos;Higiene Pessoal;8.00;pacote
+427;Sabonete Antiss√©ptico;Higiene Pessoal;7.00;unidade
+428;√Ålcool 70%;Limpeza;8.00;litro
 429;Desinfetante Concentrado;Limpeza;15.00;500ml
 430;Alvejante sem Cloro;Limpeza;10.00;litro
 431;Tira Manchas;Limpeza;12.00;500ml
-432;Sab„o LÌquido para Roupas;Limpeza;20.00;3L
+432;Sab√£o L√≠quido para Roupas;Limpeza;20.00;3L
 433;Amaciante Concentrado;Limpeza;18.00;1L
 434;Perfume para Roupas;Limpeza;15.00;200ml
 435;Limpa Forno;Limpeza;10.00;lata
@@ -440,39 +440,39 @@ N∫;Nome do Produto;Setor;PreÁo (R$);Unidade
 439;Limpa Pisos;Limpeza;7.00;litro
 440;Cera para Pisos;Limpeza;15.00;litro
 441;Pano de Microfibra;Limpeza;6.00;unidade
-442;Escova para Vaso Sanit·rio;Limpeza;10.00;unidade
-443;Rodo M·gico;Limpeza;30.00;unidade
-444;Balde com Esfreg„o;Limpeza;40.00;conjunto
-445;Sacos para Lixo Recicl·vel;Limpeza;12.00;rolo
+442;Escova para Vaso Sanit√°rio;Limpeza;10.00;unidade
+443;Rodo M√°gico;Limpeza;30.00;unidade
+444;Balde com Esfreg√£o;Limpeza;40.00;conjunto
+445;Sacos para Lixo Recicl√°vel;Limpeza;12.00;rolo
 446;Inseticida Aerossol;Limpeza;15.00;lata
 447;Repelente de Insetos;Limpeza;20.00;frasco
 448;Armadilha para Insetos;Limpeza;10.00;unidade
-449;Velas Arom·ticas;Limpeza;12.00;unidade
+449;Velas Arom√°ticas;Limpeza;12.00;unidade
 450;Aromatizador de Ambiente;Limpeza;15.00;frasco
-451;Esponja de AÁo;Limpeza;3.00;pacote
+451;Esponja de A√ßo;Limpeza;3.00;pacote
 452;Escova de Limpeza;Limpeza;8.00;unidade
-453;Pano ⁄mido Multiuso;Limpeza;7.00;pacote
+453;Pano √ömido Multiuso;Limpeza;7.00;pacote
 454;Desentupidor de Pia;Limpeza;10.00;unidade
-455;Bicarbonato de SÛdio;Limpeza;5.00;500g
-456;Vinagre de ¡lcool para Limpeza;Limpeza;4.00;litro
-457;¡gua Destilada;Limpeza;6.00;litro
-458;Luvas Descart·veis;Limpeza;8.00;caixa
-459;Sacos de Congelamento;Utilidades DomÈsticas;10.00;caixa
-460;Papel AlumÌnio;Utilidades DomÈsticas;8.00;rolo
-461;Papel Filme;Utilidades DomÈsticas;7.00;rolo
-462;Papel Manteiga;Utilidades DomÈsticas;6.00;rolo
-463;Guardanapo de Papel;Utilidades DomÈsticas;5.00;pacote
-464;Papel Toalha;Utilidades DomÈsticas;8.00;rolo
-465;FÛsforos;Utilidades DomÈsticas;2.00;caixa
-466;Isqueiro;Utilidades DomÈsticas;5.00;unidade
-467;Pilhas AA;Utilidades DomÈsticas;15.00;pacote
-468;Pilhas AAA;Utilidades DomÈsticas;15.00;pacote
-469;L‚mpada LED;Utilidades DomÈsticas;10.00;unidade
-470;Fita Adesiva;Utilidades DomÈsticas;5.00;rolo
-471;Tesoura;Utilidades DomÈsticas;10.00;unidade
-472;Cola Branca;Utilidades DomÈsticas;7.00;frasco
-473;Caneta Esferogr·fica;Papelaria;2.00;unidade
-474;L·pis;Papelaria;1.50;unidade
+455;Bicarbonato de S√≥dio;Limpeza;5.00;500g
+456;Vinagre de √Ålcool para Limpeza;Limpeza;4.00;litro
+457;√Ågua Destilada;Limpeza;6.00;litro
+458;Luvas Descart√°veis;Limpeza;8.00;caixa
+459;Sacos de Congelamento;Utilidades Dom√©sticas;10.00;caixa
+460;Papel Alum√≠nio;Utilidades Dom√©sticas;8.00;rolo
+461;Papel Filme;Utilidades Dom√©sticas;7.00;rolo
+462;Papel Manteiga;Utilidades Dom√©sticas;6.00;rolo
+463;Guardanapo de Papel;Utilidades Dom√©sticas;5.00;pacote
+464;Papel Toalha;Utilidades Dom√©sticas;8.00;rolo
+465;F√≥sforos;Utilidades Dom√©sticas;2.00;caixa
+466;Isqueiro;Utilidades Dom√©sticas;5.00;unidade
+467;Pilhas AA;Utilidades Dom√©sticas;15.00;pacote
+468;Pilhas AAA;Utilidades Dom√©sticas;15.00;pacote
+469;L√¢mpada LED;Utilidades Dom√©sticas;10.00;unidade
+470;Fita Adesiva;Utilidades Dom√©sticas;5.00;rolo
+471;Tesoura;Utilidades Dom√©sticas;10.00;unidade
+472;Cola Branca;Utilidades Dom√©sticas;7.00;frasco
+473;Caneta Esferogr√°fica;Papelaria;2.00;unidade
+474;L√°pis;Papelaria;1.50;unidade
 475;Borracha;Papelaria;1.00;unidade
 476;Caderno Espiral;Papelaria;15.00;unidade
 477;Folhas Sulfite;Papelaria;20.00;resma
@@ -480,22 +480,22 @@ N∫;Nome do Produto;Setor;PreÁo (R$);Unidade
 479;Grampeador;Papelaria;25.00;unidade
 480;Grampos para Grampeador;Papelaria;5.00;caixa
 481;Apontador;Papelaria;2.50;unidade
-482;RÈgua;Papelaria;4.00;unidade
+482;R√©gua;Papelaria;4.00;unidade
 483;Agenda;Papelaria;30.00;unidade
-484;Calend·rio de Mesa;Papelaria;15.00;unidade
+484;Calend√°rio de Mesa;Papelaria;15.00;unidade
 485;Post-it;Papelaria;8.00;bloco
 486;Marcador de Texto;Papelaria;5.00;unidade
-487;Corretivo LÌquido;Papelaria;6.00;unidade
+487;Corretivo L√≠quido;Papelaria;6.00;unidade
 488;Mochila Escolar;Papelaria;80.00;unidade
 489;Estojo Escolar;Papelaria;20.00;unidade
-490;Lancheira TÈrmica;Papelaria;40.00;unidade
-491;Garrafa de ¡gua Reutiliz·vel;Utilidades DomÈsticas;25.00;unidade
-492;Potes HermÈticos;Utilidades DomÈsticas;30.00;conjunto
-493;Sacola Reutiliz·vel;Utilidades DomÈsticas;10.00;unidade
-494;Pilhas Recarreg·veis;Utilidades DomÈsticas;30.00;pacote
-495;Carregador de Pilhas;Utilidades DomÈsticas;50.00;unidade
-496;Fita Isolante;Utilidades DomÈsticas;7.00;rolo
-497;AbraÁadeiras de Nylon;Utilidades DomÈsticas;5.00;pacote
-498;Lanterna;Utilidades DomÈsticas;20.00;unidade
-499;Kit de Ferramentas Pequeno;Utilidades DomÈsticas;60.00;conjunto
-500;Vassoura de PiaÁava;Limpeza;30.00;unidade
+490;Lancheira T√©rmica;Papelaria;40.00;unidade
+491;Garrafa de √Ågua Reutiliz√°vel;Utilidades Dom√©sticas;25.00;unidade
+492;Potes Herm√©ticos;Utilidades Dom√©sticas;30.00;conjunto
+493;Sacola Reutiliz√°vel;Utilidades Dom√©sticas;10.00;unidade
+494;Pilhas Recarreg√°veis;Utilidades Dom√©sticas;30.00;pacote
+495;Carregador de Pilhas;Utilidades Dom√©sticas;50.00;unidade
+496;Fita Isolante;Utilidades Dom√©sticas;7.00;rolo
+497;Abra√ßadeiras de Nylon;Utilidades Dom√©sticas;5.00;pacote
+498;Lanterna;Utilidades Dom√©sticas;20.00;unidade
+499;Kit de Ferramentas Pequeno;Utilidades Dom√©sticas;60.00;conjunto
+500;Vassoura de Pia√ßava;Limpeza;30.00;unidade
